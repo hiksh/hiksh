@@ -37,19 +37,33 @@ I'm currently a student at KENTECH and have a keen interest in computer vision a
   - **Performance**: Lightweight and improved frame processing speed to enable real-time inference even in CPU environments.Lightweight and improved frame processing speed to enable real-time inference even in CPU environments.
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="./profile-summary-cards/profile-details.svg" alt="Profile Details" />
+  <a href="https://github.com/hiksh">
+    <img src="./profile-summary-card-output/0-profile-details.svg" alt="Seonho Kim's GitHub Overview" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-cards/stats.svg" alt="Stats Card" />
-  <img src="./profile-summary-cards/productive-time.svg" alt="Productive Time" />
+  <a href="https://github.com/hiksh">
+    <img src="./profile-summary-card-output/3-stats.svg" alt="GitHub Stats" height="180" />
+  </a>
+  <img width="10" /> <a href="https://github.com/hiksh">
+    <img src="./profile-summary-card-output/2-most-commit-language.svg" alt="Top Languages by Commit" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiksh&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/hiksh">
+    <img src="./profile-summary-card-output/4-productive-time.svg" alt="Productive Time Heatmap" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hiksh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiksh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
