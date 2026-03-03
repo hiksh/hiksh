@@ -40,17 +40,17 @@ I'm currently a student at KENTECH and have a keen interest in computer vision a
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/0-profile-details.svg" alt="Seonho Kim's Profile Details" width="60%" />
+  <a>
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/0-profile-details.svg" alt="Seonho Kim's Profile Details" width="85%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+  <a>
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="Most Commit Language" width="40%" />
   </a>
-  <img width="10" /> <a href="https://github.com/hiksh">
-    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/3-stats.svg" alt="GitHub Stats" height="170" />
+  <img width="10" /> <a>
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/3-stats.svg" alt="GitHub Stats" width="40%"/>
   </a>
 </p>
 
