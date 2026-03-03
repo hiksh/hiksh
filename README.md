@@ -40,30 +40,18 @@ I'm currently a student at KENTECH and have a keen interest in computer vision a
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="./profile-summary-card-output/0-profile-details.svg" alt="Seonho Kim's GitHub Overview" width="100%" />
-  </a>
+  <a href="https://github.com/hiksh">
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/0-profile-details.svg" alt="Seonho Kim's Profile Details" width="60%" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="./profile-summary-card-output/3-stats.svg" alt="GitHub Stats" height="180" />
-  </a>
-  <img width="10" /> <a href="https://github.com/hiksh">
-    <img src="./profile-summary-card-output/2-most-commit-language.svg" alt="Top Languages by Commit" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="./profile-summary-card-output/4-productive-time.svg" alt="Productive Time Heatmap" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiksh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiksh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://github.com/hiksh">
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+  </a>
+  <img width="10" /> <a href="https://github.com/hiksh">
+    <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/3-stats.svg" alt="GitHub Stats" height="170" />
+  </a>
 </p>
 
 ---
