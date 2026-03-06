@@ -3,11 +3,11 @@
 ### Aspiring AI & System security Engineer
 **I am Seonho Kim, a developer who is growing through consistent learning and practical projects.**
 
-I'm currently a student at KENTECH and have a keen interest in computer vision and machine learning. Beyond simply writing code, I focus on creating practical solutions that solve real-world problems.
+I'm currently a student at KENTECH and have a keen interest in machine learning and system security combining with energy grid. Beyond simply writing code, I focus on creating practical solutions that solve real-world problems.
 
-- **Education**: University Junior (3rd Year), Major in Computer Science
+- **Education**: University Junior (3rd Year), Major in Energy engineering
 - **Leadership**: Executive Member of Entrepreneurship & Startup Club **'Energetic'**
-- **Interests**: Computer Vision, Real-time Detection, Network Security
+- **Interests**: Machine Learning, Real-time Detection, Network Security
 
 ---
 
