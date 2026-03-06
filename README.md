@@ -24,6 +24,16 @@ I'm currently a student at KENTECH and have a keen interest in machine learning 
 
 ---
 
+## Algorithm & Problem Solving
+
+<p align="left">
+  <a href="https://solved.ac/fthytytr">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fthytytr" alt="Seonho Kim's Baekjoon Profile" />
+  </a>
+</p>
+
+---
+
 ## Featured Projects
 
 ### [Realtime-FHP-Detector](https://github.com/hiksh/Realtime-FHP-Detector)
