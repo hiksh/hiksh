@@ -1,6 +1,6 @@
 # Hi there, I'm Seonho Kim!
 
-### Aspiring AI & Computer Vision Engineer
+### Aspiring AI & System security Engineer
 **I am Seonho Kim, a developer who is growing through consistent learning and practical projects.**
 
 I'm currently a student at KENTECH and have a keen interest in computer vision and machine learning. Beyond simply writing code, I focus on creating practical solutions that solve real-world problems.
