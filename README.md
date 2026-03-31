@@ -56,16 +56,6 @@ I'm currently a student at KENTECH and have a keen interest in machine learning 
   - **Network Algorithms**: Developed the core algorithm to calculate network similarity and centrality, quantifying the overlap between private social networks and public casting networks.
   - **Statistical Verification**: Designed a Random Network (Null Model) comparison logic to statistically verify the influence of agencies and social ties on casting decisions.
 
-### [BOSS](https://github.com/hiksh/BOSS)
-**Boundary-Optimized Structural Feature Selection for NIDS**
-> *A systematic feature selection framework for AI-based Network Intrusion Detection Systems, maximizing inter-class boundary distance in UMAP-reduced space. Published at CISC-S'26.*
-
-- **Key Tech**: Python, UMAP (cuML), scikit-learn, XGBoost, pandas
-- **Contribution**:
-  - **Novel Metric**: Defined *Boundary Mean (BM)* — the average distance from each attack sample to its nearest benign neighbor in UMAP space — as a model-agnostic feature selection objective, replacing conventional F1-based ranking.
-  - **Pipeline Design**: Designed a 3-stage pipeline (ExtraTrees+ANOVA pre-filter → Local UMAP screening → Global UMAP final evaluation) that reduces UMAP computation by up to 6.3× via greedy search and elbow detection.
-  - **Evaluation**: Validated on CIC-IDS-2018 and UNSW-NB15; achieved up to **+2.79% F1** over prior work on linear classifiers and **+163% BM improvement** on UNSW-NB15.
-
 ---
 
 ## GitHub Analytics
