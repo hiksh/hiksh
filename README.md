@@ -17,7 +17,7 @@ I'm currently a student at KENTECH and have a keen interest in machine learning 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ### AI & Frameworks
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-00A8E1?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-00A8E1?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 ### Tools & Environment
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -55,6 +55,16 @@ I'm currently a student at KENTECH and have a keen interest in machine learning 
   - **Data Mining**: Architected a scraping pipeline using Selenium to collect casting data (945 actors) and social graphs, implementing logic to handle dynamic web elements and anti-bot constraints.
   - **Network Algorithms**: Developed the core algorithm to calculate network similarity and centrality, quantifying the overlap between private social networks and public casting networks.
   - **Statistical Verification**: Designed a Random Network (Null Model) comparison logic to statistically verify the influence of agencies and social ties on casting decisions.
+
+### [BOSS](https://github.com/hiksh/BOSS)
+**Boundary-Optimized Structural Feature Selection for NIDS**
+> *A systematic feature selection framework for AI-based Network Intrusion Detection Systems, maximizing inter-class boundary distance in UMAP-reduced space. Published at CISC-S'26.*
+
+- **Key Tech**: Python, UMAP (cuML), scikit-learn, XGBoost, pandas
+- **Contribution**:
+  - **Novel Metric**: Defined *Boundary Mean (BM)* — the average distance from each attack sample to its nearest benign neighbor in UMAP space — as a model-agnostic feature selection objective, replacing conventional F1-based ranking.
+  - **Pipeline Design**: Designed a 3-stage pipeline (ExtraTrees+ANOVA pre-filter → Local UMAP screening → Global UMAP final evaluation) that reduces UMAP computation by up to 6.3× via greedy search and elbow detection.
+  - **Evaluation**: Validated on CIC-IDS-2018 and UNSW-NB15; achieved up to **+2.79% F1** over prior work on linear classifiers and **+163% BM improvement** on UNSW-NB15.
 
 ---
 
