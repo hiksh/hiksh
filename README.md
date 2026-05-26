@@ -37,18 +37,4 @@ F1 race strategy modeled as an MDP. Compares DP, Monte Carlo, and Q-learning acr
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/0-profile-details.svg" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/3-stats.svg" width="40%" />
-</p>
-
----
-
-fthytytr@kentech.ac.kr
+Contact: fthytytr@kentech.ac.kr
