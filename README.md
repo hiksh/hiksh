@@ -40,18 +40,4 @@ Chess engine implementing Negamax, Alpha-Beta pruning, and transposition tables.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/0-profile-details.svg" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/hiksh/hiksh/main/profile-summary-card-output/apprentice/3-stats.svg" width="40%" />
-</p>
-
----
-
-fthytytr@kentech.ac.kr
+Contact: fthytytr@kentech.ac.kr
