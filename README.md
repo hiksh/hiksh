@@ -30,6 +30,13 @@ Chess engine implementing Negamax, Alpha-Beta pruning, and transposition tables.
 
 ---
 
+## Awards
+
+**NYPC 2026 — Master Track**  
+3rd place, Chairman's Award (Game Culture Foundation).
+
+---
+
 ## Problem Solving
 
 <p align="left">
