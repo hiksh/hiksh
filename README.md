@@ -8,9 +8,10 @@ Interests span intrusion detection, real-time inference, and reinforcement learn
 
 ## Stack
 
-**Languages** — Python · C++  
+**Languages** — Python · C++ · Swift  
 **ML / CV** — PyTorch · OpenCV · MediaPipe · scikit-learn  
-**Tools** — Git · Linux
+**Mobile** — SwiftUI · SwiftData  
+**Tools** — Git · Linux · Xcode
 
 ---
 
