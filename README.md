@@ -18,7 +18,7 @@ Interests span intrusion detection, real-time inference, and reinforcement learn
 ## Projects
 
 **[BOSS](https://github.com/hiksh/BOSS)**  
-Feature selection framework for AI-based Network Intrusion Detection Systems. Published at CISC-S'26.
+Feature selection framework for AI-based Network Intrusion Detection Systems. Poster paper, CISC-S'26 Proceedings.
 
 **[datasets](https://github.com/comsyssec/datasets)**  
 Curated collection of 30+ cybersecurity / IDS / IoT datasets with unified labeling (attack name, binary flag, Cyber Kill Chain step). Main contributor.
