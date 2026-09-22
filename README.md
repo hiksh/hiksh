@@ -18,10 +18,10 @@ Interests span intrusion detection, real-time inference, and reinforcement learn
 ## Projects
 
 **[BOSS](https://github.com/hiksh/BOSS)**  
-Feature selection framework for AI-based Network Intrusion Detection Systems. Poster paper, CISC-S'26 Proceedings.
+_First author_ · Feature selection framework for AI-based Network Intrusion Detection Systems. Poster paper, CISC-S'26 Proceedings.
 
 **[datasets](https://github.com/comsyssec/datasets)**  
-Curated collection of 30+ cybersecurity / IDS / IoT datasets with unified labeling (attack name, binary flag, Cyber Kill Chain step). Main contributor.
+Curated collection of 28 cybersecurity / IDS / IoT datasets with unified labeling (attack name, binary flag, Cyber Kill Chain step). Main contributor.
 
 **[RL-Agent](https://github.com/hiksh/RL-Agent)**  
 Reinforcement learning racing agent on a 2D circuit. Benchmarks DQN, PPO, SAC, and TD3 over continuous control of steering, throttle, ERS, and pit strategy; SAC achieves the fastest, safest laps.
